@@ -1,0 +1,7 @@
+*.json
+*.ipynb
+venv
+persinst_json_de
+script.py
+prepOR.sh
+.ipynb_checkpoints
